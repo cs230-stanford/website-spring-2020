@@ -1,7 +1,7 @@
 # Temporary GitPage Host setup
 title: CS230 Deep Learning
-baseurl: "/cs230-2019-fall"
-repository: "haossr/cs230-2019-fall"
+baseurl: "/cs230-2020-spring"
+repository: "vineetk/cs230-2020-spring"
 
 # Theme settings
 doks:
@@ -57,7 +57,7 @@ course:
     quarter: 2020 Winter
     time: Tue 9:00 AM - 10:20 AM
     venue: NVIDIA Auditorium
-    piazza: &pz 'https://piazza.com/class/k533d6ufdfg5dv'
+    piazza: &pz 'https://piazza.com/class/k8jbpjv3nd3lk'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/515'
         name: 'CS230 (2020 Winter)'
@@ -128,7 +128,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: 'https://canvas.stanford.edu/courses/112249/external_tools/3367'
+            url: ''
             external_url: true
         queuestatus:
             icon:
@@ -152,12 +152,13 @@ course:
           type: Coordinator
           url: http://www.linkedin.com/in/swatidube/
           image: swati.jpg
-        - name: Jon Braatz
+        - name: Vineet Kosaraju
           type: Head TA
           url:
-          image: jon.jpg
-          zoom_id: 5026279572
-          calendly: https://calendly.com/cs230winter2020/jon-oh
+          image: vineet.png
+          url: https://vineetkosaraju.com/
+          zoom_id: ''
+          calendly: ''
     ta:
         - name: Jo Chuang
           type: On-campus TA
@@ -165,12 +166,6 @@ course:
           image: jo.jpg
           zoom_id: 8543765436
           calendly: https://calendly.com/cs230winter2020/jo-oh
-        - name: Vineet Kosaraju
-          type: On-campus TA
-          url: https://vineetkosaraju.com/
-          image: vineet.png
-          zoom_id: 2698484179
-          calendly: https://calendly.com/cs230winter2020/vineet-oh
         - name: Shahab Mousavi
           type: On-campus TA
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
@@ -189,27 +184,15 @@ course:
           image: pranav.jpg
           zoom_id: 7586009555
           calendly: https://calendly.com/cs230winter2/pranav-oh
-        - name: Sherry Ruan
+        - name: Shubhang Desai
           type: On-campus TA
-          url: https://www.linkedin.com/in/sherrysruan
-          image: sherry.jpg
-          zoom_id: 3672079800
-          calendly: https://calendly.com/cs230winter2020/sherry-oh
-        - name: Chris Waites
+          url: https://shubhangdesai.github.io/
+          image: shubhang.png
+          zoom_id: ''
+          calendly: ''
+        - name: Jonathan Lingjie Li
           type: On-campus TA
-          url: https://chriswaites.com/
-          image: chris.jpg
-          zoom_id: 7534542794
-          calendly: https://calendly.com/cs230winter2020/chris-oh
-        - name: Jingbo Yang
-          type: On-campus TA
-          url: https://www.linkedin.com/in/jingbo-eric-yang-36b0b08a/
-          image: jingbo.jpg
-          zoom_id: 3380771726
-          calendly: https://calendly.com/cs230winter2/jingbo-oh
-        - name: Leo Mehr
-          type: On-campus TA
-          url: https://leomehr.com/
-          image: leo.png
-          zoom_id: 5470200840
-          calendly: https://calendly.com/cs230winter2020/leo-oh
+          url: https://www.linkedin.com/in/jonathan-li-23024679/
+          image: jonathan.png
+          zoom_id: ''
+          calendly: ''

@@ -50,7 +50,6 @@ Students are expected to have the following background:
 Here's more information about the class grade:
 
 #### Breakdown
-UPDATE: due to rapid developments with covid-19, all final project deliverables (poster, report, and video) are now *optional*. Please read [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767) for more details.
 
 Below is the breakdown of the class grade:
  * 40%: Final project
@@ -69,7 +68,7 @@ Every student is allowed to and encouraged to meet more with the TAs, but only t
 #### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
 
-You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope]().
+You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope](https://www.gradescope.com/courses/113684).
 
 #### Late assignments
 Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment and is per student.
