@@ -65,8 +65,8 @@ course:
     project_timeline:
         proposal: 2020-04-22T23:59:00-07:00
         milestone1: 2020-05-08T23:59:00-07:00
-        mielstone2: 2020-02-22T23:59:00-07:00
-        poster_and_report: 2020-06-12T11:59:00-07:00
+        milestone2: 2020-05-22T23:59:00-07:00
+        poster_and_report: 2020-06-12T23:59:00-07:00
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
@@ -160,7 +160,7 @@ course:
           url: https://jochuang.com/
           image: jo.jpg
           zoom_id: 8543765436
-          calendly: https://calendly.com/cs230winter2020/jo-oh
+          calendly: ''
         - name: Shahab Mousavi
           type: On-campus TA
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/

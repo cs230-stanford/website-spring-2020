@@ -10,9 +10,8 @@ micro_nav: false
 ---
 
 ## Announcements
-- The final project is now *optional*. See [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767) for details.
-- Poster session is cancelled! See details at the bottom of the syllabus for how to submit the poster and presentation video. In short, the final report will be due Sunday midnight (3/15), and the poster and presentation video are due by Wednesday (3/18) noon. For more detail, see the main [piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=702).
-
+- Please check out the [FAQ](/faq) for a list of changes to the course for the remote, spring offering.
+- Please join [piazza](https://piazza.com/class/k8jbpjv3nd3lk) during the first week. This is where the majority of course announcements will be found.
 
 ## Syllabus
 
@@ -34,9 +33,9 @@ micro_nav: false
     <tbody>
         <tr>
             <td>Lecture&nbsp;1</td>
-            <td> 01/07 </td>
+            <td> 04/07 </td>
             <td>
-                <strong>Topics:</strong> <a href="/winter2020/lecture1.pdf">(slides)</a>
+                <strong>Topics:</strong> <a href="#">(slides)</a>
                 <ul>
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
@@ -44,7 +43,7 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                No online modules. If you are enrolled in CS230, you will receive an email on 01/07 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
+                No online modules. If you are enrolled in CS230, you will receive an email on 04/07 to join Course 1 ("Neural Networks and Deep Learning") on Coursera with your Stanford email.
             </td>
             <td>
                 No assignments.
@@ -57,9 +56,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;2</td>
-            <td> 01/14 </td>
+            <td> 04/14 </td>
             <td>
-                <strong>Topics: </strong>Deep Learning Intuition <a href="/winter2020/lecture2.pdf">(slides)</a>
+                <strong>Topics: </strong>Deep Learning Intuition <a href="#">(slides)</a>
             </td>
             <td><strong>Completed modules:</strong>
                 <ul>
@@ -86,7 +85,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;3</td>
-            <td> 01/21 </td>
+            <td> 04/21 </td>
             <td>
                 <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
             </td>
@@ -98,8 +97,6 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Project TA meeting #1 deadline:</strong> meet with any TA to discuss proposal by Sun, 01/26
-                <br>
                 <strong>Quizzes (due at 8:30am):</strong>
                 <ul>
                     <li>Shallow Neural Networks</li>
@@ -111,6 +108,15 @@ micro_nav: false
                     <li>Building your Deep Neural Network: step by step</li>
                     <li>Deep Neural Network - Application</li>
                 </ul>
+            </td>
+        </tr>
+        <tr style="background-color:#ffb7bf">
+            <td><strong>Project Meeting #1</strong></td>
+            <td><strong>{{ site.course.project_timeline.proposal | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#proposal">Instructions</a></td>
+            <td></td>
+            <td>
+                <strong>Meet with any TA between 4/06 and 4/22 to discuss your proposal.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
@@ -127,9 +133,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;4</td>
-            <td> 01/28 </td>
+            <td> 04/28 </td>
             <td>
-                <strong>Topics:</strong> Adversarial examples - GANs <a href="/winter2020/lecture4.pdf">(slides)</a>
+                <strong>Topics:</strong> Adversarial examples - GANs <a href="#">(slides)</a>
                 <ul>
                     <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
                 </ul>
@@ -165,11 +171,11 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;5</td>
-            <td> 02/04 </td>
+            <td> 05/05 </td>
             <td>
                 <strong>Topics:</strong> AI and Healthcare. Guest Speaker: Pranav Rajpurkar.
-                <a href="/winter2020/lecture5_guest.pdf">(guest slides)</a>
-                <a href="/winter2020/lecture5.pdf">(main slides)</a>
+                <a href="#">(guest slides)</a>
+                <a href="#">(main slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -192,6 +198,22 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
+        <tr style="background-color:#ffb7bf">
+            <td><strong>Project Meeting #2</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#milestone-1">Instructions</a></td>
+            <td></td>
+            <td>
+                <strong>Meet with any TA between 4/23 and 5/08 to discuss your first milestone report.</strong>
+            </td>
+        </tr>
+        <tr style="background-color:#b7ffbf">
+            <td><strong>Project Milestone #1 Due</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#milestone-1">Instructions</a></td>
+            <td></td>
+            <td></td>
+        </tr>
         <tr>
             <td id="Module_4" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
                 <strong>Convolutional Neural Networks</strong> <a href="https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning">(Course 4)</a>
@@ -199,10 +221,10 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture 6</td>
-            <td> 02/11 </td>
+            <td> 05/12 </td>
             <td>
                 <strong>Topics:</strong> Interpretability of Neural Networks
-                <a href="/winter2020/lecture6.pdf">(slides)</a>
+                <a href="#">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -227,30 +249,8 @@ micro_nav: false
             </td>
         </tr>
         <tr>
-            <td>Midterm Review</td>
-            <td>02/13</td>
-            <td></td>
-            <td>
-                <strong>Midterm review details:</strong>
-                <ul>
-                    <li>Date & Time: Feb 13, 3:00-4:20pm</li>
-                    <li>Location: Thornton 102</li>
-                </ul>
-            </td>
-            <td>
-              <strong>Past midterms:</strong>
-                <ul>
-                    <li>Winter 2018 Midterm (<a href="/files/cs230exam_win18.pdf">without solutions</a>, <a href="/files/cs230exam_win18_soln.pdf">with solutions</a>)</li>
-                    <li>Spring 2018 Midterm (<a href="/files/cs230exam_spr18.pdf">without solutions</a>, <a href="/files/cs230exam_spr18_soln.pdf">with solutions</a>)</li>
-                    <li>Fall 2018 Midterm (<a href="/files/cs230exam_fall18.pdf">without solutions</a>, <a href="/files/cs230exam_fall18_soln.pdf">with solutions</a>)</li>
-                    <li>Winter 2019 Midterm (<a href="/files/cs230exam_win19.pdf">without solutions</a>, <a href="/files/cs230exam_win19_soln.pdf">with solutions</a>)</li>
-                    <li>Fall 2019 Midterm (<a href="/files/cs230exam_fall19.pdf">without solutions</a>, <a href="/files/cs230exam_fall19_soln.pdf">with solutions</a>)</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
             <td>Lecture&nbsp;7</td>
-            <td> 02/18 </td>
+            <td> 05/19 </td>
             <td>
                 <strong>Topics:</strong> Deep Learning Strategy (no slides)
                 <br>
@@ -278,31 +278,21 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
-        <tr style="background-color:#ffcece" id="midterm">
-            <td><strong>Midterm</strong></td>
-            <td><strong>{{ site.course.midterm_time }}</strong></td>
+        <tr style="background-color:#ffb7bf">
+            <td><strong>Project Meeting #3</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#milestone-2">Instructions</a></td>
             <td></td>
             <td>
-                Midterm details
-                <ul>
-                    <li>Date: Wednesday, Feb 19th</li>
-                    <li>Time: 6pm-9pm</li>
-                    <li>Location: <a href="https://goo.gl/maps/5uqzXVQmro78421V8">CEMEX Auditorium</a> </li>
-                </ul>
-            </td>
-            <td>
+                <strong>Meet with any TA between 4/09 and 5/22 to discuss your second milestone report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
-            <td><strong>Project Milestone Due</strong></td>
-            <td><strong>{{ site.course.project_timeline.milestone | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
-            <td>
-                <a href="/project/#milestone">Instructions</a></td>
-            <td>
-            </td>
-            <td>
-                <strong>Project TA meeting #2 deadline:</strong> meet with your assigned project TA any time up until the milestone deadline.
-            </td>
+            <td><strong>Project Milestone #2 Due</strong></td>
+            <td><strong>{{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#milestone-2">Instructions</a></td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td id="Module_5" colspan="5" style="text-align:center; vertical-align:middle;background-color:#fffde7">
@@ -311,7 +301,7 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;8</td>
-            <td> 02/25 </td>
+            <td> 05/26 </td>
             <td>
                 <strong>Topics:</strong>
                 <ul>
@@ -345,10 +335,10 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;9</td>
-            <td> 03/03 </td>
+            <td> 06/02 </td>
             <td>
                 <strong>Topics:</strong>
-                <a href="/winter2020/lecture9.pdf">(slides)</a>
+                <a href="#">(slides)</a>
                 <ul>
                     <li>Deep Reinforcement Learning</li>
                 </ul>
@@ -383,9 +373,9 @@ micro_nav: false
         </tr>
         <tr>
             <td>Lecture&nbsp;10</td>
-            <td> 03/10 </td>
+            <td> 06/09 </td>
             <td>
-                <strong>Topics:</strong> <a href="/winter2020/lecture10.pdf">(slides)</a>
+                <strong>Topics:</strong> <a href="#">(slides)</a>
                 <ul>
                     <li>Class wrap-up</li>
                     <li>What's next?</li>
@@ -399,33 +389,20 @@ micro_nav: false
                 </ul>
             </td>
         </tr>
-        <tr style="background-color:#b7ffbf">
-            <td><strong>Final Project Report Due</strong></td>
+        <tr style="background-color:#ffb7bf">
+            <td><strong>Project Meeting #4</strong></td>
             <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#final-report">Instructions</a></td>
+            <td></td>
             <td>
-                Instructions for <a href="/project/#final-report">Project Report</a>
-            </td>
-            <td>
-            <strong>Note: Late days cannot be applied to the final poster and report.</strong>
-            </td>
-            <td>
-                <strong>Project TA meeting #3 deadline:</strong> meet with your assigned project TA any time up until the final report deadline (we suggest as soon as possible).
+                <strong>Meet with any TA between 5/23 and 6/12 to discuss your final project report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
-            <td><strong>Final Poster and Video Due</strong></td>
-            <td>
-              <strong>
-                {{ site.course.project_timeline.poster_session }}
-              </strong>
-            </td>
-            <td>
-                Instructions for <a href="/project/#poster">Poster</a>
-            </td>
-            <td>
-                <strong>NOTE:</strong> The poster session was cancelled.
-                <a href="https://piazza.com/class/k533d6ufdfg5dv?cid=702">See Piazza Post</a> for more details.
-            </td>
+            <td><strong>Project Final Report &amp; Video Due</strong></td>
+            <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
+            <td><a href="/project/#final-report">Instructions</a></td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>

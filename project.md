@@ -45,9 +45,9 @@ Notes on a few specific types of projects:
 
 This section contains the detailed instructions for the different parts of your project.
 
-**Submission:** We will be using Gradescope for submission of all four parts of the final project. We’ll announce when submissions are open for each part. You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.
+**Submission:** We will be using Gradescope for submission of all five parts of the final project. We’ll announce when submissions are open for each part. You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.
 
-**Evaluation:** We will not be disclosing the breakdown of the 40% that the final project is worth amongst the different parts, but the poster and final report will combine to be the majority of the grade. Projects will be evaluated based on:
+**Evaluation:** We will not be disclosing the breakdown of the 50% that the final project is worth amongst the different parts, but the video and final report will combine to be the majority of the grade. **Attendance and participation during your TA meetings will also be considered.** Projects will be evaluated based on:
 
  * The technical quality of the work. (I.e., Does the technical material make sense? Are the things tried reasonable? Are the proposed algorithms or applications clever and interesting? Do the authors convey novel insight about the problem and/or algorithms?)
  * Significance. (Did the authors choose an interesting or a “real" problem to work on, or only a small “toy" problem? Is this work likely to be useful and/or have impact?)
@@ -90,57 +90,31 @@ We link one past example of a good project proposal [here](/winter2020/example_p
 | **Grading** | The project proposal is mainly intended to make sure you decide on a project topic and get feedback from TAs early. As long as your proposal follows the instructions above and the project seems to have been thought out with a reasonable plan, you should do well on the proposal.
 | **Submission** | Submit on Gradescope (see description under deadline for instructions)
 
-## Milestone
+## Milestone #1
 
-**Deadline:** {{ site.course.project_timeline.milestone | date: site.course.project_timeline.long_date_format }}
+**Deadline:** {{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.long_date_format }}
 
-The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report. Please write the milestone (and final report) keeping in mind that the intended audience is Profs. Ng and Katanforoosh and the TAs. Thus, for example, you should not spend two pages explaining what logistic regression is. Your milestone should include the full names of all your team members and state the full title of your project. **Note:** We will expect your final writeup to be on the same topic as your milestone. In order to help you the most, we expect you to submit your running code. Your code should contain a baseline model for your application. Along with your baseline model, you are welcome to submit additional parts of your code such as data pre-processing, data augmentation, accuracy matric(s), and/or other models you have tried. Please clean your code before submitting, comment on it, and cite any resources you used. Please **do not submit your dataset**. However, you may include a few samples of your data in the report if you wish.
+The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report.
 
-<table>
-    <tbody>
-        <tr>
-        	<td><b>Format</b></td>
-            <td>Your milestone should be <b>at most 3 pages</b>, excluding references. Similar to to the proposal, it should include:
-            	<ul>
-					<li>Title, Author(s)</li>
-					<li>Introduction: this section introduces your project, why it’s important or interesting.</li>
-					<li>Make sure to submit your code (or Github URL). Do not submit your dataset. It is okay to include a few samples though.</li>
-					<li>Details on the dataset</li>
-					<li>Approach: Describe the current steps you have done. If you are implementing an algorithm, you should have started implementation and ideally have some early stage results. Describe precisely the remaining work you expect to complete. We ideally would like to see a model description and a training strategy (loss function for instance).</li>
-				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td><b>Grading</b></td>
-            <td>The milestone is mostly intended to get feedback from TAs to make sure you’re making reasonable progress. As long as your milestone follows the instructions and you seem to have tested any assumptions which might prevent your team from completing the project, you should do well on the milestone.</td>
-        </tr>
-        <tr>
-            <td><b>Submission</b></td>
-            <td>Submit on Gradescope. Code can either be a link to a github repository, or the relevant files themselves.</td>
-        </tr>
-    </tbody>
-</table>
+**More information coming soon.**
 
-## Poster
+## Milestone #2
 
-**Covid-19 Update**: the poster is optional. Please see [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767).
+**Deadline:** {{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.long_date_format }}
 
-**Submission Deadline:** 03/18 Wednesday 11:59 AM (noon) | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
+The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report.
 
-The in-person poster session is **cancelled**. [See Piazza post for poster and video submission instructions](https://piazza.com/class/k533d6ufdfg5dv?cid=702).
+**More information coming soon.**
 
-<!--**Note: If your team is a mix of on-campus and SCPD students, all on-campus students are required to attend the poster session, unless approved by the teaching staff beforehand.
-Please make a private Piazza request if you have special circumstances.**-->
+## Video Report
 
-Your poster is required to be a 24" by 36" summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The poster needs to be visually appealing, but also illustrate technical details of your project. <!--In addition, each team should prepare a 3 minute ‘elevator pitch’ which should detail the problem statement, approach and results of the project.-->
+**Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 
-| **Format** | Here are some [poster guidelines](/files/poster-guidelines.pdf) (please note that 36x24 in means 36 in wide by 24 in tall, i.e. it's better if your poster is formatted landscape). You can also look at posters from previous years in CS229/CS231N/CS224N.
-| **Grading** | We will be grading posters on the poster quality and clarity, the technical content of the poster, as well as the knowledge demonstrated by the team when discussing their work with teaching staff at the poster session. **Note:** Posters with nice, illustrative figures are preferred over posters with lots of text.
-| **Submission** | Submit on Gradescope.
+Your video is required to be a 3 minute summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
+
+**More information coming soon.**
 
 ## Final Report
-
-**Covid-19 Update**: the poster is optional. Please see [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767).
 
 **Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 

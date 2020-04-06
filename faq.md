@@ -16,22 +16,36 @@ micro_nav: false
 
 ## What is the grading breakdown?
 Below is the breakdown of class grade:
- * 40%: Final project
- * 25%: Midterm
- * 25%: Programming assignment
- * 8%: Quizzes
- * 2%: Attendance
+ * 50%: Final project
+ * 35%: Programming assignment
+ * 15%: Quizzes
 
+## Will there be a midterm exam?
+No, there will not be a midterm this quarter. Instead, more emphasis will be placed on the project.
 
-## What material is allowed on the midterm? 
-Students are allowed to bring a two-sided A4 sheet of notes to the midterm.
+## Will there be a poster session?
+No, there will not be a poster session this quarter. We are looking into other alternatives for a remote poster session though.
 
+## Will there be sections?
+Yes, there will still be sections. Check piazza for information about logistics.
 
-## What are the deliverables as part of the term project?
-The project has four deliverables:
+## How do I join lectures?
+Lectures will be held 9-10:20AM (PST) over Zoom. We'll post the zoom link on this website and on piazza. Recordings will be posted after lecture onto Canvas.
+
+## Can I get a letter grade?
+All grading this quarter will be done on a S/NC scale (Satisfactory / No Credit). In rare cases you may receive an unofficial grade (for example if you previously took the class Incomplete and are re-taking a component this quarter). If this applies to you make a private post on Piazza.
+
+## How is the final project graded?
+The final project grade will incorporate the following components:
+ * Grade on 5 deliverables
+ * Meeting attendance/participation for 4 TA meetings
+
+## What are the deliverables as part of the final project?
+The project has main deliverables:
  * Proposal
- * Milestone
- * Poster
+ * Milestone #1
+ * Milestone #2
+ * Final video
  * Final report
 
 Deadlines are listed in the project page and on the schedule page of the website.
@@ -39,7 +53,7 @@ Deadlines are listed in the project page and on the schedule page of the website
 ## Should final project use only methods taught in classroom?
 No, we don't restrict you to only use methods/topics/problems taught in class. That said, you can always consult a TA if you are unsure about any method or problem statement.
 
-## Is it okay to use a dataset that is not public ?
+## Is it okay to use a dataset that is not public?
 We don't mind you using a dataset that is not public, as long as you have the required permissions to use it. We don't require you to share the dataset either as long as you can accurately describe it in the Final Report.
 
 ## Is it okay to combine the CS230 term project with that of another class ?
@@ -56,12 +70,6 @@ We recommend teams of 3 students, while teams sizes of 1 or 2 are also acceptabl
 The reason we encourage students to form teams of 3 is that, in our experience, this size usually fits best the expectations for the CS230 projects. In particular, we expect the team to submit a completed project (even for team of 1 or 2), so keep in mind that all projects require to spend a decent minimum effort towards gathering data, and setting up the infrastructure to reach some form of result. In a three-person team this can be shared much better, allowing the team to focus a lot more on the interesting stuff, e.g. results and discussion.
 
 In exceptional cases, we can allow a team of 4 people. If you plan to work on a project in a team of 4, please come talk to one of the TAs beforehand so we can ensure that the project has a large enough scope.
-
-## Is it okay to miss the poster session?
-Part of your project grade part depends on your presentation at the poster session, so we really urge you not to miss it. That said, if (and only if) you have a final exam conflict there are a few possibilities:
- * If your other class offers an alternative time for the exam, you should choose that.
- * If you are working on the project as a team, the rest of the team could present the poster without you there.
- * If none of above options work for you, come talk to one of the TAs or send us an email at cs230-project@cs.stanford.edu.
 
 
 ## How do I get Tensorflow / PyTorch installed on my machine?
@@ -89,4 +97,4 @@ See the question above. You might have to learn some core concepts there on your
 
 ## Can I audit CS230?
 
- In general we welcome guests to sit-in on lectures if they are a member of the Stanford community (registered student, staff, and/or faculty). If the class is too crowded and we're out of space, we ask to give priority to enrolled students. To get access to the course materials (including the Coursera private sessions), you have to enroll in the class or be a Research Scientist, Visiting Scholar, Postdoctoral student, faculty or staff and have a SUNet ID. We do not give access to the Coursera platform to students who aren't in the above categories. If you are a Research Scientist, Visiting Scholar, Postdoctoral student, Faculty or Staff with a valid SUNet ID, please contact us at cs230-qa@cs.stanford.edu to be added as an auditor to the class.
+In general we welcome guests to sit-in on lectures if they are a member of the Stanford community (registered student, staff, and/or faculty). If the class is too crowded and we're out of space, we ask to give priority to enrolled students. To get access to the course materials (including the Coursera private sessions), you have to enroll in the class or be a Research Scientist, Visiting Scholar, Postdoctoral student, faculty or staff and have a SUNet ID. We do not give access to the Coursera platform to students who aren't in the above categories. If you are a Research Scientist, Visiting Scholar, Postdoctoral student, Faculty or Staff with a valid SUNet ID, please contact us at cs230-qa@cs.stanford.edu to be added as an auditor to the class.
