@@ -19,7 +19,7 @@ All course announcements take place through the [class Piazza forum]({{ site.cou
 #### Class components
 
 CS230 has the following components:
-* In class lecture - once a week
+* In class lecture - once a week (hosted on Zoom)
 * Video lectures, programming assignments, and quizzes on Coursera
 * [The final project](/project)
 * [Weekly TA-led sections](/section)
@@ -27,7 +27,7 @@ CS230 has the following components:
 #### The flipped classroom format
 
 CS230 follows a flipped-classroom format, every week you will have:
-* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. If you are an SCPD student, you can access the in-class lecture videos on [Canvas](https://canvas.stanford.edu/).
+* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. You can access these lectures on Zoom, and they will also be posted afterwards on [Canvas](https://canvas.stanford.edu/).
 * Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks.
 * TA-led sections on Fridays: Teaching Assistants will teach you hands-on tips and tricks to succeed in your projects, but also theorethical foundations of deep learning.
 * Project meeting with your TA mentor: CS230 is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful deep learning project within a quarter.
@@ -52,23 +52,22 @@ Here's more information about the class grade:
 #### Breakdown
 
 Below is the breakdown of the class grade:
- * 40%: Final project
- * 25%: Midterm
- * 25%: Programming assignment
- * 8%: Quizzes
- * 2%: Attendance (e.g. in-class lectures --if not SCPD-- and project mentorship meetings.)
+ * 50%: Final project (broken into proposal, milestone 1, milestone 2, final report, final video, and meeting attendance)
+ * 35%: Programming assignment
+ * 15%: Quizzes
 
-**Note:** For project meetings, every group must meet 3 times throughout the quarter:
+**Note:** For project meetings, every group must meet 4 times throughout the quarter:
  1. Before the project proposal deadline to discuss and validate the project idea. This can be with any TA.
- 2. Before the milestone deadline, *with your assigned project TA*.
- 3. Before the final report deadline, again with your assigned project TA.
+ 2. Before the first milestone deadline, *with your assigned project TA*.
+ 3. Before the second milestone deadline, *with your assigned project TA*.
+ 4. Before the final report deadline, again with your assigned project TA.
 
-Every student is allowed to and encouraged to meet more with the TAs, but only the 3 meetings above count towards the final participation grade.
+Every student is allowed to and encouraged to meet more with the TAs, but only the 4 meetings above count towards the final participation grade.
 
 #### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
 
-You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope](https://www.gradescope.com/courses/113684).
+You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope](https://www.gradescope.com/courses/113684). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **978X37**.
 
 #### Late assignments
 Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment and is per student.

@@ -30,7 +30,7 @@ doks:
             logo:
                 text:
                 image:
-            copyright: Copyright &copy; 2019. - Stanford University <br>All rights reserved.
+            copyright: Copyright &copy; 2020. - Stanford University <br>All rights reserved.
         social_list:
             # - network_name: facebook
             #   profile_url: '#'
@@ -54,20 +54,19 @@ permalink: /:title/
 
 # Course logistics
 course:
-    quarter: 2020 Winter
+    quarter: 2020 Spring
     time: Tue 9:00 AM - 10:20 AM
-    venue: NVIDIA Auditorium
+    venue: Zoom (Link coming soon!)
     piazza: &pz 'https://piazza.com/class/k8jbpjv3nd3lk'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/515'
-        name: 'CS230 (2020 Winter)'
-    canvas: ''
-    midterm_time: 02/19 Wednesday 6-9 PM
+        name: 'CS230 (2020 Spring)'
+    canvas: 'https://canvas.stanford.edu'
     project_timeline:
-        proposal: 2020-01-22T23:59:00-07:00
-        milestone: 2020-02-21T23:59:00-07:00
-        poster_and_report: 2020-03-18T11:59:00-08:00
-        poster_session: 03/18 Wednesday 11:59 AM (noon)
+        proposal: 2020-04-22T23:59:00-07:00
+        milestone1: 2020-05-08T23:59:00-07:00
+        mielstone2: 2020-02-22T23:59:00-07:00
+        poster_and_report: 2020-06-12T11:59:00-07:00
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
@@ -81,10 +80,6 @@ course:
             content: Past Projects
             url: '/past-projects'
             external_url: false
-        project-sponsoring:
-            content: Sponsoring a Project
-            url: 'https://docs.google.com/forms/d/e/1FAIpQLSfJOXvQq46sfie8Z6e8Tp8v0_3khker3wrJJR44VyTINcGLiA/viewform'
-            external_url: true
         project-2018-win:
             icon:
             content: Winter 2018
@@ -157,7 +152,7 @@ course:
           url:
           image: vineet.png
           url: https://vineetkosaraju.com/
-          zoom_id: ''
+          zoom_id: 2698484179
           calendly: ''
     ta:
         - name: Jo Chuang
@@ -171,28 +166,28 @@ course:
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
           image: shahab.jpg
           zoom_id: 9392472642
-          calendly: https://calendly.com/cs230winter2020/shahab-oh
+          calendly: ''
         - name: Advay Pal
           type: On-campus TA
           url: https://advaypal.com/
           image: advay.jpg
           zoom_id: 5123418143
-          calendly: https://calendly.com/cs230winter2/advay-oh
+          calendly: ''
         - name: Pranav Rajpurkar
           type: On-campus TA
           url: https://rajpurkar.github.io/
           image: pranav.jpg
           zoom_id: 7586009555
-          calendly: https://calendly.com/cs230winter2/pranav-oh
+          calendly: ''
         - name: Shubhang Desai
           type: On-campus TA
           url: https://shubhangdesai.github.io/
           image: shubhang.png
-          zoom_id: ''
+          zoom_id: 516359
           calendly: ''
         - name: Jonathan Lingjie Li
           type: On-campus TA
           url: https://www.linkedin.com/in/jonathan-li-23024679/
           image: jonathan.png
-          zoom_id: ''
+          zoom_id: 5824914282
           calendly: ''

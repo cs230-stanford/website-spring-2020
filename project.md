@@ -125,7 +125,7 @@ The milestone will help you make sure you're on track, and should describe what 
 
 **Covid-19 Update**: the poster is optional. Please see [this piazza announcement](https://piazza.com/class/k533d6ufdfg5dv?cid=767).
 
-**Submission Deadline:** {{ site.course.project_timeline.poster_session | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
+**Submission Deadline:** 03/18 Wednesday 11:59 AM (noon) | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 
 The in-person poster session is **cancelled**. [See Piazza post for poster and video submission instructions](https://piazza.com/class/k533d6ufdfg5dv?cid=702).
 
