@@ -153,41 +153,41 @@ course:
           image: vineet.png
           url: https://vineetkosaraju.com/
           zoom_id: 2698484179
-          calendly: ''
+          calendly: https://calendly.com/cs230spring2020/vineet-project-oh
     ta:
         - name: Jo Chuang
           type: On-campus TA
           url: https://jochuang.com/
           image: jo.jpg
           zoom_id: 8543765436
-          calendly: ''
+          calendly: https://calendly.com/cs230spring2020/jo-project-oh
         - name: Shahab Mousavi
           type: On-campus TA
           url: https://www.linkedin.com/in/shahab-mousavi-39394738/
           image: shahab.jpg
           zoom_id: 9392472642
-          calendly: ''
+          calendly: https://calendly.com/cs230spring2020/shahab-project-oh
         - name: Advay Pal
           type: On-campus TA
           url: https://advaypal.com/
           image: advay.jpg
           zoom_id: 5123418143
-          calendly: ''
+          calendly: https://calendly.com/cs230spring2020/advay-project-oh
         - name: Pranav Rajpurkar
           type: On-campus TA
           url: https://rajpurkar.github.io/
           image: pranav.jpg
           zoom_id: 7586009555
-          calendly: ''
+          calendly: https://calendly.com/cs230spring2020/pranav-project-oh
         - name: Shubhang Desai
           type: On-campus TA
           url: https://shubhangdesai.github.io/
           image: shubhang.png
           zoom_id: 516359
-          calendly: ''
+          calendly: https://calendly.com/cs230spring2020/shubhang-project-oh
         - name: Jonathan Lingjie Li
           type: On-campus TA
           url: https://www.linkedin.com/in/jonathan-li-23024679/
           image: jonathan.png
           zoom_id: 5824914282
-          calendly: ''
+          calendly: https://calendly.com/cs230spring2020/jonathan-project-oh

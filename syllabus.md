@@ -346,7 +346,7 @@ micro_nav: false
                 <strong>Optional Reading:</strong>
                 <ul>
                     <li><a href="https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf">Human-level control through deep reinforcement learning</a></li>
-                    <li><a href="https://deepmind.com/documents/119/agz_unformatted_nature.pdf">Mastering the Game of Go without Human Knowledge</a></li>
+                    <li><a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a></li>
                 </ul>
             </td>
             <td>

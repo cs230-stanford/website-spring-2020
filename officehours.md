@@ -27,5 +27,5 @@ QueueStatus link for Homework OH: [{{ site.course.queuestatus.url }}]({{ site.co
 **All Office Hours are held in Huang Basement. If you want to join remotely, use the Zoom link above for the respective TA.**
 
 <div>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=N3N1b25ydjBnZTIyMHI2ODQ0NGdldmc5ODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%2370237F&amp;showTitle=0&amp;mode=WEEK&amp;title=CS230%20Winter%202020" style="border-width:0" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=o04tbuc0j3bo0ppafpju8g0h04%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
