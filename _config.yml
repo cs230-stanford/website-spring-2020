@@ -56,7 +56,7 @@ permalink: /:title/
 course:
     quarter: 2020 Spring
     time: Tue 9:00 AM - 10:20 AM
-    venue: '<a href="https://stanford.zoom.us/my/cs230spring2020">Zoom</a>'
+    venue: '<a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom (access via "Zoom" tab of Canvas)</a>'
     piazza: &pz 'https://piazza.com/class/k8jbpjv3nd3lk'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/515'
@@ -123,7 +123,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: ''
+            url: 'https://canvas.stanford.edu/courses/117317/external_tools/5384'
             external_url: true
         queuestatus:
             icon:

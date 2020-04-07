@@ -19,7 +19,7 @@ All course announcements take place through the [class Piazza forum]({{ site.cou
 #### Class components
 
 CS230 has the following components:
-* In class lecture - once a week (hosted on [Zoom](https://stanford.zoom.us/my/cs230spring2020))
+* In class lecture - once a week (hosted on [Zoom](https://canvas.stanford.edu/courses/117317/external_tools/5384)). You can access lectures by going to the "Zoom" tab of Canvas.
 * Video lectures, programming assignments, and quizzes on Coursera
 * [The final project](/project)
 * [Weekly TA-led sections](/section)
@@ -27,7 +27,7 @@ CS230 has the following components:
 #### The flipped classroom format
 
 CS230 follows a flipped-classroom format, every week you will have:
-* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. You can access these lectures on [Zoom](https://stanford.zoom.us/my/cs230spring2020), and they will also be posted afterwards on [Canvas](https://canvas.stanford.edu/).
+* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. You can access these lectures on the [Zoom tab on Canvas](https://canvas.stanford.edu/courses/117317/external_tools/5384), and they will also be posted afterwards on [Canvas](https://canvas.stanford.edu/).
 * Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks.
 * TA-led sections on Fridays: Teaching Assistants will teach you hands-on tips and tricks to succeed in your projects, but also theorethical foundations of deep learning.
 * Project meeting with your TA mentor: CS230 is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful deep learning project within a quarter.

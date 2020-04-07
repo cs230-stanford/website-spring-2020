@@ -30,7 +30,7 @@ No, there will not be a poster session this quarter. We are looking into other a
 Yes, there will still be sections. Check piazza for information about logistics.
 
 ## How do I join lectures?
-Lectures will be held 9-10:20AM (PST) over Zoom, at https://stanford.zoom.us/my/cs230spring2020. Recordings will be posted after lecture onto Canvas.
+Lectures will be held 9-10:20AM (PST) over Zoom. You can watch the lectures live by going to Canvas, and going to the <a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom tab</a>. Recordings will also be posted after lecture onto Canvas.
 
 ## Can I get a letter grade?
 All grading this quarter will be done on a S/NC scale (Satisfactory / No Credit). In rare cases you may receive an unofficial grade (for example if you previously took the class Incomplete and are re-taking a component this quarter). If this applies to you make a private post on Piazza.
