@@ -35,7 +35,7 @@ micro_nav: false
             <td>Lecture&nbsp;1</td>
             <td> 04/07 </td>
             <td>
-                <strong>Topics:</strong> <a href="#">(slides)</a>
+                <strong>Topics:</strong> <a href="/spring2020/lecture1.pdf">(slides)</a>
                 <ul>
                     <li>Class introduction</li>
                     <li>Examples of deep learning projects</li>
