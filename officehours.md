@@ -24,7 +24,7 @@ QueueStatus link for Homework OH: [{{ site.course.queuestatus.url }}]({{ site.co
 
 ## Google Calendar
 
-**All Office Hours are held in Huang Basement. If you want to join remotely, use the Zoom link above for the respective TA.**
+**All Office Hours are held remotely over Zoom. Use the Zoom link above for the respective TA.**
 
 <div>
 <iframe src="https://calendar.google.com/calendar/embed?src=o04tbuc0j3bo0ppafpju8g0h04%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
