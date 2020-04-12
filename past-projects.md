@@ -5,10 +5,514 @@ comments: false
 
 title: Past Projects
 description: One of CS230's main goals is to prepare students to apply machine learning algorithms to real-world tasks. Check out a list of our students past final project.
-buttons: [project-2018-win, project-2018-spr, project-2018-fall, project-2019-win, project-2019-spr, project-2019-fall]
+buttons: [project-2018-win, project-2018-spr, project-2018-fall, project-2019-win, project-2019-spr, project-2019-fall, project-2020-win]
 micro_nav: true
 
 ---
+
+# Winter 2020
+
+## Outstanding Projects
+<ul>
+
+<li>
+<strong>Predicting Material Properties using Chemical Structure</strong> by Shayta Roy, Tyler James Quill, Yaakov Tuchman:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32496282.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32496282.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Characterizing hair style/color/style transfer</strong> by Clemens Konstantin Macho:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32582032.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32582032.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Motion based handwriting detection</strong> by Kelly He, Kevin Chen, Wanze Xie:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32620737.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32620737.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Activity Recognition Using 3D Human Pose Estimation with Deep Learning</strong> by Wendell Hom:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32636548.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32636548.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Food image to recipe generator</strong> by Dorian Kawehionale'a Raboy-McGowan, Luciano Gonzalez, Sabrina Rong Lu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32552727.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32552727.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Learning powerflow mappings for power grid simulation</strong> by Lily Douglas Buechler:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32107581.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32107581.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Local ancestry reference</strong> by Jan Sokol, Matthew Aguirre:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32644090.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32644090.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Large-scale Seismic Attributes Computation with GAN</strong> by Joao Paulo Pecanha Navarro De Oliveira:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32623969.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32623969.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Underwater gesture classificaiton</strong> by Veronica Peng, Wenxi Zhao, Xi Yu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32200198.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32200198.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting gait with parkinsons</strong> by Johanna Jianping O'Day, Kirsten Anne Seagers, Marissa Rachel Lee:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32168981.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32168981.pdf'>poster</a>
+</li>
+
+</ul>
+
+## Submissions
+<ul>
+<li>
+<strong>Deep-Learning Based Surrogate Model for Subsurface Flow Problem</strong> by Haoyu Tang, Jingru Cheng, Su Jiang:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/31845612.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/31845612.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Diagnosing diabetic retinopaphy</strong> by Amelie Schaefer, Lucy Monyue Wang:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/31877943.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/31877943.pdf'>poster</a>
+</li>
+
+<li>
+<strong>CNNs in Logarithmic Gradient Image Sensing</strong> by Qianyun Lu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/31913370.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/31913370.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting organelle localization</strong> by Anjali Bisaria, Nalin Joseph Ratnayeke, Yilin Fan:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32009152.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32009152.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Skin cancer self diagnosis</strong> by Chafik Taiebennefs:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32026369.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32026369.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Real time risk eval for flights</strong> by Nicolas Jean-Jacques Tragus, Saakaar Bhatnagar:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32029302.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32029302.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting structures in job title taxonomy</strong> by Shuang Jin:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32029567.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32029567.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Frieght document transcription</strong> by King Castillo Alandy Dy:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32048142.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32048142.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Fast Brain Strain Evaluation in Head Impact</strong> by Xianghao Zhan, Yiheng Li:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32058965.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32058965.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Building footprint extraction based on RGB-D satellite imagery</strong> by Andriy V Syrov, Denis Ulanov:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32060950.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32060950.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Fake audio/speaker detection</strong> by Daniel Evert:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32061734.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32061734.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deep learning for seeking alpha (finance)</strong> by Zhichao Zou, Zihao Qu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32066186.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32066186.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Generative Text style transfer</strong> by Robert Andrew Schmidt, Spencer Flick Braun:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32069807.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32069807.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Depth Image Estimation From RGB Image Using Deep Learning</strong> by Isha Singhal, Mei Jiao Png, Xu Guo:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32072739.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32072739.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Learning powerflow mappings for power grid simulation</strong> by Lily Douglas Buechler:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32107581.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32107581.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Chest XRay disease detection</strong> by Hugo Kitano:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32135302.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32135302.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Learning Probability Distributions of Future Stock Prices</strong> by Jeffrey Sun, Julius Zhang, Mohammad Lari:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32144605.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32144605.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Classify subcellular proteins</strong> by Pradeep Chaitanya Mylavarapu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32152277.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32152277.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Search My Favorites by Color: Fashion Parsing through Color Classification</strong> by Calvin Hwei Guo:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32154521.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32154521.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Local Privacy Against Inference Attacks: A Generative Modeling Approach</strong> by Dennis Rich, Wei-Chen Chen, Wei-Ning Chen:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32159755.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32159755.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Image distortion classification</strong> by Alex He, Mike Victor Hsieh, Roland Dominique Pascal Duffau:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32163271.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32163271.pdf'>poster</a>
+</li>
+
+<li>
+<strong>CNNs for dementia onset detection</strong> by Michael Wang:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32168343.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32168343.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting gait with parkinsons</strong> by Johanna Jianping O'Day, Kirsten Anne Seagers, Marissa Rachel Lee:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32168981.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32168981.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Graph based classification of Rock Climbing difficulties</strong> by Cheng-Hao Tai, Luis Rafael Hinojosa Vazquez:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32175834.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32175834.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Precipitation nowcasting</strong> by Anika Jain, Georgios Sarmonikas, Yash Gaur:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32176528.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32176528.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting wildfire spread patterns</strong> by Emily Wu, Glynnis Elizabeth Millhouse, Olamide Oladeji:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32197036.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32197036.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Underwater gesture classificaiton</strong> by Veronica Peng, Wenxi Zhao, Xi Yu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32200198.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32200198.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Brass Trio Music Generation</strong> by Ben Iver Rocklin, William Dunlop:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32207140.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32207140.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Tennis shot identifier</strong> by Ganapathy Sankararaman, Siddharth Buddhiraju:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32209028.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32209028.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Voice Activity Detection for Low Resource Settings</strong> by Abhipray Sahoo:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32224732.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32224732.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Generating anime characters from sketches</strong> by Robert Yang, Tai Duc Vu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32226261.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32226261.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deep Learning in Crown Defects Inspection</strong> by Huaizhen Chen:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32247169.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32247169.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting NFL outcomes</strong> by Cameron Taylor:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32263160.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32263160.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Stock prediction with NLP</strong> by Shelly Wang, Yitian Zeng, Yuan Fang:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32274501.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32274501.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deepfake detection</strong> by Joshua Denholtz:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32301295.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32301295.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Voice conversion using neural style transfer</strong> by Haiyun Wang, Luoyi Yang, Ziqi Chen:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32321922.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32321922.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Real Time Beat Tracking: A Mixed Approach</strong> by George Alex Woskob:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32392246.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32392246.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Reproduce Distributed Learning Framework for Medical Imaging + edge scenarios</strong> by Miao Zhang:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32460513.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32460513.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting Material Properties using Chemical Structure</strong> by Shayta Roy, Tyler James Quill, Yaakov Tuchman:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32496282.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32496282.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deep Learning based speech recognition for dysarthric speech disability</strong> by Siddhartha Prakash:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32533441.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32533441.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Food image to recipe generator</strong> by Dorian Kawehionale'a Raboy-McGowan, Luciano Gonzalez, Sabrina Rong Lu:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32552727.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32552727.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting Small Medium Size Firm Bankruptcy</strong> by Giovanni Cialone:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32569269.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32569269.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Characterizing hair style/color/style transfer</strong> by Clemens Konstantin Macho:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32582032.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32582032.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Lunar landscape segmentation</strong> by Chen Wu, Ziyang Yuan:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32601432.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32601432.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Analyzing and Enhancing Facial Expression Recognition CNNs</strong> by Amil Khanzada, Charles Bai, Ferhat Turker Celepcikay:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32610274.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32610274.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting protein inhibition sites through point-cloud atomic encodings and 3D deep convolutional neural networks (Healthcare)</strong> by David J Toomer:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32610279.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32610279.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deepfake detection</strong> by Aleksander Dash, Nolan Handali:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32610458.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32610458.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Abstractive Summarization for structured conversational text</strong> by Ayush Chordia:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32613715.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32613715.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Speech to Text: Pastor Wang Mandarin Bible Teachings</strong> by Yen Peng Kao:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32618697.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32618697.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Motion based handwriting detection</strong> by Kelly He, Kevin Chen, Wanze Xie:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32620737.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32620737.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Assessing Severity of Building Damage</strong> by Kevin Yang, Robert Pablo Trevino, Vinay Sawal:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32621646.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32621646.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Detection of Pulmonary Embolism in CT Angiography images using Deep Learning</strong> by Jananan Mithrakumar:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32622744.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32622744.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Large-scale Seismic Attributes Computation with GAN</strong> by Joao Paulo Pecanha Navarro De Oliveira:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32623969.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32623969.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Multi agent RL with imperfect info games</strong> by Eric Von York:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32625681.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32625681.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deblurring near infrared fluro images with gan</strong> by Haotian Du, Zhuoran Ma:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32633702.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32633702.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Credit Card Fraud Detection using Deep Learning based on Generative Adversarial and Tensor Flow</strong> by Rajesh Sabari :
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32635168.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32635168.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Activity Recognition Using 3D Human Pose Estimation with Deep Learning</strong> by Wendell Hom:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32636548.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32636548.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Transform faces to anime avatar</strong> by Hui Su, Jin Fang:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32639139.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32639139.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Animal Detection Using Deep Learning</strong> by Lei Lin:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32639344.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32639344.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deep Learning Based Texture Rendering</strong> by Joon Hwa Jung:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32639841.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32639841.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deep RL for equity trading</strong> by Roy Blaine Justus:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32640064.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32640064.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Detect deepfakes</strong> by Dong Bing, Luke Kim, Sergei Petrov:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32640435.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32640435.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Predicting Likelihood of Road Accidents in Nairobi</strong> by Alexandr Lenk, Matias Nicolas Cersosimo, Negin Mohammadi Raoof:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32640758.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32640758.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Crystal Facet Segmentation</strong> by Rouven Spiess:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32641590.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32641590.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Using Graph Convolutional Networks to Predict Molecular Properties</strong> by Kevin Yimin Guo, Rohan Mehrotra:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32642951.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32642951.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Deep Consumer Choice Models</strong> by Ayush Kanodia, Sakshi Ganeriwal:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32642994.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32642994.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Ideal basketball player</strong> by Vamsi Saladi:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32643049.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32643049.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Movie Genre Classification from its Poster using Deep Learning</strong> by Rahul Monal Chokshi, Sam Han-Joo Sung:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32643471.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32643471.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Local ancestry reference</strong> by Jan Sokol, Matthew Aguirre:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32644090.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32644090.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Using aerial satellite images to predict crime</strong> by Johannes Nehemiah Hui, Jonah Wu, Ricky Joshua Toh Wen Xian:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32644967.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32644967.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Vehicle make/model/year classification</strong> by Sean Li:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32644984.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32644984.pdf'>poster</a>
+</li>
+
+<li>
+<strong>Garbage Classification using Neural Networks</strong> by Aditya Gera:
+<a href='http://cs230.stanford.edu/projects_winter_2020/reports/33215880.pdf'>report</a>
+<a href='http://cs230.stanford.edu/projects_winter_2020/posters/33215880.pdf'>poster</a>
+</li>
+
+</ul>
+
 # Fall 2019
 
 ## Outstanding Posters

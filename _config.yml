@@ -110,6 +110,11 @@ course:
             content: Fall 2019
             url: '/past-projects/#fall-2019'
             external_url: false
+        project-2020-win:
+            icon:
+            content: Winter 2020
+            url: '/past-projects/#winter-2020'
+            external_url: false
         video2018:
             icon:
             content: Lecture videos (Fall 2018)
