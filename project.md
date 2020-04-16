@@ -94,25 +94,54 @@ We link one past example of a good project proposal [here](/winter2020/example_p
 
 **Deadline:** {{ site.course.project_timeline.milestone1 | date: site.course.project_timeline.long_date_format }}
 
-The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report.
+By the first milestone, you should have completed the following:
 
-**More information coming soon.**
+* Obtained at least one dataset on your preferred work environment (locally, AWS, Colab)
+* Be able to access the data in Python via some dataloader
+* Run a very simple end-to-end baseline model. This baseline does not have to be complicated - eg:
+	* A logistic regression model that operates on simple features
+	* Default models included in Tensorflow/Pytorch official packages
+	* Public implementations of GANs or Wavenets
+
+We will look for the following in the writeup:
+
+* At least 2 pages of content (not including references)
+* Thorough description of your **dataset**: basic statistics - class distributions, general data size, number of samples, as well as implications these properties will have on the project.
+* Description of your overall task. Include a background section introducing previous approaches.
+* Results from your **baseline**. Include hard data or results (accuracy, F1 score, generated examples etc)
+* Concrete next steps for the next milestone. These could be one of the following:
+	* Specific improvements to the existing baseline
+	* Applying a different approach to your task in a novel way, and adapting public code to work with your project
+	* Implementing a particular paper from scratch
+	* Collecting new data and building a different, more useful dataset
+	* Note: feel free to list multiple new directions, but please select one approach in particular to focus on. Explain why this approach was chosen, as well as specific subgoals required. Work with your Project TA to establish clear goals.
 
 ## Milestone #2
 
 **Deadline:** {{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.long_date_format }}
 
-The milestone will help you make sure you're on track, and should describe what you've accomplished so far, and very briefly say what else you plan to do. You should write it as if it's an “early draft" of what will turn into your final project. You can write it as if you're writing the first few pages of your final project report, so that you can re-use most of the milestone text in your final report.
+By the first milestone, you should have attempted an approach as described in Milestone 1 and identified further steps.
 
-**More information coming soon.**
+This milestone will be an expansion of the first milestone. Include all previous information, as well as new items described below:
+
+* At least 3 pages of content (not including references)
+* Detailed progress update on the selected approach
+* Analysis on whether the results are as expected. 
+* Concrete next steps for the final report. This should be one final effort at improving your project. Explain why this approach was chosen, as well as specific subgoals required.
 
 ## Video Report
 
 **Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
 
-Your video is required to be a 3 minute summary of your work. Include diagrams figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
+Your video is required to be a 3 minute summary of your work. Include diagrams, figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
 
-**More information coming soon.**
+If possible, try to come up with creative visualizations of your project. These could include:
+
+* System diagrams
+* More detailed examples of data that don’t fit in the space of your report
+* Live demonstrations for end-to-end systems
+
+We recommend searching for conference presentation sessions (AAAI, Neurips, ECCV, ICML, ICLR etc) and following those formats.
 
 ## Final Report
 
