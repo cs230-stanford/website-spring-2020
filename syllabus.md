@@ -87,7 +87,12 @@ micro_nav: false
             <td>Lecture&nbsp;3</td>
             <td> 04/21 </td>
             <td>
-                <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
+                <strong>Topics:</strong> Adversarial examples - GANs <a href="/spring2020/lecture3.pdf">(slides)</a>
+                <ul>
+                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
+                </ul>
+                <strong>Optional Readings:</strong>
+                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -135,12 +140,7 @@ micro_nav: false
             <td>Lecture&nbsp;4</td>
             <td> 04/28 </td>
             <td>
-                <strong>Topics:</strong> Adversarial examples - GANs <a href="#">(slides)</a>
-                <ul>
-                    <li>Attacking neural networks with Adversarial Examples and Generative Adversarial Networks</li>
-                </ul>
-                <strong>Optional Readings:</strong>
-                <a href="https://arxiv.org/pdf/1412.6572.pdf">Explaining and Harnessing Adversarial Examples</a>, <a href="https://arxiv.org/pdf/1406.2661.pdf">Generative Adversarial Nets</a>, <a href="https://arxiv.org/pdf/1611.07004.pdf">Conditional GAN</a>, <a href="https://arxiv.org/pdf/1609.04802.pdf">Super-Resolution GAN</a>, <a href="https://arxiv.org/pdf/1703.10593.pdf">CycleGAN</a>
+                <strong>Topics: </strong>Full-cycle of a Deep Learning Project (no slides)
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -204,7 +204,7 @@ micro_nav: false
             <td><a href="/project/#milestone-1">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with any TA between 4/23 and 5/08 to discuss your first milestone report.</strong>
+                <strong>Meet with your assigned TA between 4/23 and 5/08 to discuss your first milestone report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
@@ -284,7 +284,7 @@ micro_nav: false
             <td><a href="/project/#milestone-2">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with any TA between 5/09 and 5/22 to discuss your second milestone report.</strong>
+                <strong>Meet with your assigned TA between 5/09 and 5/22 to discuss your second milestone report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
@@ -395,7 +395,7 @@ micro_nav: false
             <td><a href="/project/#final-report">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with any TA between 5/23 and 6/12 to discuss your final project report.</strong>
+                <strong>Meet with your assigned TA between 5/23 and 6/12 to discuss your final project report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
