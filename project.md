@@ -105,7 +105,7 @@ By the first milestone, you should have completed the following:
 
 We will look for the following in the writeup:
 
-* At least 2 pages of content (not including references)
+* At least 2 pages of content, but no more than 3 (not including references)
 * Thorough description of your **dataset**: basic statistics - class distributions, general data size, number of samples, as well as implications these properties will have on the project.
 * Description of your overall task. Include a background section introducing previous approaches.
 * Results from your **baseline**. Include hard data or results (accuracy, F1 score, generated examples etc)
