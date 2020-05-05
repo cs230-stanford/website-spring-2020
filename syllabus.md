@@ -186,13 +186,13 @@ micro_nav: false
                 </ul>
             </td>
             <td>
-                <strong>Quizzes (due at 9am PST):</strong>
+                <strong>Quizzes (due at 9am PST, WED 5/6 (due to Coursera downtime)):</strong>
                 <ul>
                     <li>Hyperparameter tuning, Batch Normalization, Programming Frameworks</li>
                     <li>Bird recognition in the city of Peacetopia (case study)</li>
                     <li>Autonomous driving (case study)</li>
                 </ul>
-                <strong>Programming Assignments (due at 9am PST):</strong>
+                <strong>Programming Assignments (due at 9am PST, WED 5/6 (due to Coursera downtime)):</strong>
                 <ul>
                     <li>Tensorflow</li>
                 </ul>
