@@ -174,8 +174,8 @@ micro_nav: false
             <td> 05/05 </td>
             <td>
                 <strong>Topics:</strong> AI and Healthcare. Guest Speaker: Pranav Rajpurkar.
-                <a href="#">(guest slides)</a>
-                <a href="#">(main slides)</a>
+                <a href="/spring2020/lecture5_guest.pdf">(guest slides)</a>
+                <a href="/spring2020/lecture5_main.pdf">(main slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
