@@ -31,16 +31,20 @@ grid_navigation:
       excerpt: TensorFlow and PyTorch
       cta: Read more
       url: /section/5
-    - title: Section 6 (Week 7)
-      excerpt: Advanced Evaluation Metrics
+    - title: Section 6 (Week 6)
+      excerpt: Debugging DL Projects
       cta: Read more
       url: /section/6
-    - title: Section 7 (Week 8)
-      excerpt: Writing Your Final Report
+    - title: Section 7 (Week 7)
+      excerpt: Advanced Evaluation Metrics
       cta: Read more
       url: /section/7
-    - title: Section 8 (Week 9)
-      excerpt: Hyperparameter Tuning and Tensorboard
+    - title: Section 8 (Week 8)
+      excerpt: Writing Your Final Report
       cta: Read more
       url: /section/8
+    - title: Section 9 (Week 9)
+      excerpt: Hyperparameter Tuning and Tensorboard
+      cta: Read more
+      url: /section/9
 ---
