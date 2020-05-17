@@ -284,7 +284,7 @@ micro_nav: false
             <td><a href="/project/#milestone-2">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with your assigned TA between 5/09 and 5/22 to discuss your second milestone report.</strong>
+                <strong>Meet with your assigned TA between 5/09 and 5/24 to discuss your second milestone report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">
