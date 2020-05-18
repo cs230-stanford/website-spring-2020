@@ -124,10 +124,16 @@ By the first milestone, you should have attempted an approach as described in Mi
 
 This milestone will be an expansion of the first milestone. Include all previous information, as well as new items described below:
 
-* At least **3 pages of content, but no more than 4** (not including references)
 * Detailed progress update on the selected approach
 * Analysis on whether the results are as expected. 
 * Concrete next steps for the final report. This should be one final effort at improving your project. Explain why this approach was chosen, as well as specific subgoals required.
+
+In terms of the length of the milestone, please follow these guidelines:
+
+* Your main writeup should be at least **3 pages of content, but no more than 4** (not including references)
+* In addition you can include an optional **appendix**. This appendix can be of **max 4 pages of content**.
+* If you do include an appendix, it should **only** contain tables and figures and their captions, no other paragraphs.
+* During grading we'll focus mostly on the main writeup and may or may not look at the appendix. You should include all the most important information, figures, and tables in the main writeup.
 
 ## Video Report
 
