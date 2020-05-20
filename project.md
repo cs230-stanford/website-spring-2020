@@ -120,20 +120,24 @@ We will look for the following in the writeup:
 
 **Deadline:** {{ site.course.project_timeline.milestone2 | date: site.course.project_timeline.long_date_format }}
 
-By the first milestone, you should have attempted an approach as described in Milestone 1 and identified further steps.
+By the first milestone, you should have attempted an approach as described above and identified further steps. This second milestone will be an expansion of the first one. Broadly, we will be looking for the following:
 
-This milestone will be an expansion of the first milestone. Include all previous information, as well as new items described below:
-
-* Detailed progress update on the selected approach
-* Analysis on whether the results are as expected. 
+* Good motivation for the project and an explanation of the problem statement
+* Literature review describing task and prior approaches in detail
+* A description of the dataset, describing basic statistics and their implications
+* Detailed and clear explanation of the selected methodology and approach
+* Working implementation (code) submitted
+* Experiments or results using concrete quantitative metrics or qualitative analysis comparing your new method against preexisting baselines or previous milestone results. 
+* Analysis on whether the results are as expected 
 * Concrete next steps for the final report. This should be one final effort at improving your project. Explain why this approach was chosen, as well as specific subgoals required.
 
-In terms of the length of the milestone, please follow these guidelines:
+Think of this milestone as a slightly shorter / less comprehensive version of the final report. Please follow these guidelines:
 
-* Your main writeup should be at least **3 pages of content, but no more than 4** (not including references)
-* In addition you can include an optional **appendix**. This appendix can be of **max 4 pages of content**.
-* If you do include an appendix, it should **only** contain tables and figures and their captions, no other paragraphs.
-* During grading we'll focus mostly on the main writeup and may or may not look at the appendix. You should include all the most important information, figures, and tables in the main writeup.
+| **Format** | The writeup should be **at least 3 pages** and **at most 4 pagees** of content (not including references). In addition, you can include an optional **appendix**. This appendix can be of **max 4 pages of content**. If you do include an appendix, it should **only** contain tables and figures and their captions, no other paragraphs. During grading we'll focus mostly on the main writeup and may or may not look at the appendix. You should include all of the most important information, figures, and tables in the main writeup.
+| **Code** | Please include a link to a Github repository with the code for your final project. You do not have to include the data or additional libraries. Your code should be easily runnable without much tinkering and should show either novel implementations or substantial modifications of preexisting codebases.
+| **Grading** | We'll be looking for detailed and clear descriptions for the following categories: problem statement, previous approaches, dataset, methods, results, analysis, next steps. Make sure to address the specific points mentioned above for each of these categories.
+| **Submission** | Submit on Gradescope.
+
 
 ## Video Report
 
