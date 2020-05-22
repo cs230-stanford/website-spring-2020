@@ -10,6 +10,7 @@ micro_nav: false
 ---
 
 ## Announcements
+- **<span style='background-color: rgba(246,208,0,0.99);'>Please check out Piazza for an important announcement regarding revised final project deadlines.</span>**
 - Please check out the [FAQ](/faq) for a list of changes to the course for the remote, spring offering.
 - Please join [piazza](https://piazza.com/class/k8jbpjv3nd3lk) during the first week. This is where the majority of course announcements will be found.
 
@@ -395,7 +396,7 @@ micro_nav: false
             <td><a href="/project/#final-report">Instructions</a></td>
             <td></td>
             <td>
-                <strong>Meet with your assigned TA between 5/23 and 6/12 to discuss your final project report.</strong>
+                <strong>Meet with your assigned TA between 5/23 and 6/9 (before class) to discuss your final project report.</strong>
             </td>
         </tr>
         <tr style="background-color:#b7ffbf">

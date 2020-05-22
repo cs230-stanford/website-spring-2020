@@ -66,7 +66,7 @@ course:
         proposal: 2020-04-22T23:59:00-07:00
         milestone1: 2020-05-08T23:59:00-07:00
         milestone2: 2020-05-24T23:59:00-07:00
-        poster_and_report: 2020-06-12T23:59:00-07:00
+        poster_and_report: 2020-06-09T10:20:00-07:00
         long_date_format: "%B %-d, %A %I:%M %p"
         syllabus_date_format: "%m/%d %A %I:%M %p"
     links:
