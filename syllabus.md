@@ -404,7 +404,9 @@ micro_nav: false
             <td><strong>{{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.syllabus_date_format }}</strong></td>
             <td><a href="/project/#final-report">Instructions</a></td>
             <td></td>
-            <td></td>
+            <td>
+                <strong>Please read over the final project guidelines <a href="/project/#final-report">here</a> for information on the rubric and late submissions.</strong>
+            </td>
         </tr>
     </tbody>
 </table>

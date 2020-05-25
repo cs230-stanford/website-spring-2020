@@ -141,7 +141,7 @@ Think of this milestone as a slightly shorter / less comprehensive version of th
 
 ## Video Report
 
-**Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
+**Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(Two late days allowed - see below)**
 
 Your video is required to be a 3 minute summary of your work. Include diagrams, figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
 
@@ -153,9 +153,13 @@ If possible, try to come up with creative visualizations of your project. These 
 
 We recommend searching for conference presentation sessions (AAAI, Neurips, ECCV, ICML, ICLR etc) and following those formats.
 
+**<span style='background-color: rgba(246,208,0,0.99);'>The late day policy for the final report and video report is slightly different.</span>**
+- <span style='background-color: rgba(246,208,0,0.99);'>You may use up to **two** late days on either assignment. Note that if you submit both two days late, that would be using four late days.</span>
+- <span style='background-color: rgba(246,208,0,0.99);'>Instead of a 20% penalty for submitting after the late day deadline, you will instead receive a 0. Please make sure to submit on time!</span>
+
 ## Final Report
 
-**Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(No late days allowed)**
+**Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(Two late days allowed - see below)**
 
 The final report should contain a comprehensive account of your project. We expect the report to be thorough, yet concise. Broadly, we will be looking for the following:
 
@@ -174,3 +178,7 @@ The final report should contain a comprehensive account of your project. We expe
  | **Code** | Please include a link to a Github repository with the code for your final project. You do not have to include the data or additional libraries.
  | **Grading** | The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in CS230, the novelty of the problem, and the technical quality and significance of the work.
  | **Submission** | Submit on Gradescope.
+
+**<span style='background-color: rgba(246,208,0,0.99);'>The late day policy for the final report and video report is slightly different.</span>**
+- <span style='background-color: rgba(246,208,0,0.99);'>You may use up to **two** late days on either assignment. Note that if you submit both two days late, that would be using four late days.</span>
+- <span style='background-color: rgba(246,208,0,0.99);'>Instead of a 20% penalty for submitting after the late day deadline, you will instead receive a 0. Please make sure to submit on time!</span>

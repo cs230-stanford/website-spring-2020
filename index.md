@@ -76,7 +76,11 @@ Each student will have a total of ten free late (calendar) days to use for progr
 
 **For example**, if a group submitted their project proposal 23 hours after the deadline, this results in 1 late day being used per student.
 
-Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
+Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than **three days after its due date**. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
+
+**<span style='background-color: rgba(246,208,0,0.99);'>The late day policy for the final report and video report is slightly different.</span>**
+- <span style='background-color: rgba(246,208,0,0.99);'>You may use up to **two** late days on either assignment. Note that if you submit both two days late, that would be using four late days.</span>
+- <span style='background-color: rgba(246,208,0,0.99);'>Instead of a 20% penalty for submitting after the late day deadline, you will instead receive a 0. Please make sure to submit on time!</span>
 
 #### Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the [Office of Accessible Education](https://oae.stanford.edu/) (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066).
