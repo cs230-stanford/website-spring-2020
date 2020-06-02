@@ -256,7 +256,7 @@ micro_nav: false
             <td> 05/19 </td>
             <td>
                 <strong>Topics:</strong> Interpretability of Neural Networks
-                <a href="#">(slides)</a>
+                <a href="/spring2020/lecture7.pdf">(slides)</a>
             </td>
             <td>
                 <strong>Completed modules:</strong>
@@ -339,7 +339,7 @@ micro_nav: false
             <td> 06/02 </td>
             <td>
                 <strong>Topics:</strong>
-                <a href="#">(slides)</a>
+                <a href="/spring2020/lecture9.pdf">(slides)</a>
                 <ul>
                     <li>Deep Reinforcement Learning</li>
                 </ul>
