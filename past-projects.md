@@ -851,11 +851,6 @@ micro_nav: true
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26262312.pdf">poster</a>
 	</li>
 	<li>
-		<strong>Literary Style Transfer with Sequence Models and Rejection-Pass Filtering</strong> by Daniel Kharitonov, Guneet Singh Kohli, Yu Fan:
-		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26261901.pdf">report</a>
-		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26261339.pdf">poster</a>
-	</li>
-	<li>
 		<strong>Liver Lesion Localization using Deep Convolutional Neural Networks</strong> by Sheun Aluko, Surya Narayanan Hari, Vadim Piccini Yakubenko:
 		<a href="http://cs230.stanford.edu/projects_fall_2019/reports/26247627.pdf">report</a>
 		<a href="http://cs230.stanford.edu/projects_fall_2019/posters/26251005.pdf">poster</a>
