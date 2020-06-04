@@ -143,7 +143,7 @@ Think of this milestone as a slightly shorter / less comprehensive version of th
 
 **Submission Deadline:** {{ site.course.project_timeline.poster_and_report | date: site.course.project_timeline.long_date_format }} **(Two late days allowed - see below)**
 
-Your video is required to be a 3 minute summary of your work. Include diagrams, figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
+Your video is required to be a 3-4 minute summary of your work. **There is a hard limit of 4 minutes, and TAs will not watch a video beyond the 4 minute mark.** Include diagrams, figures and charts to illustrate the highlights of your work. The video needs to be visually appealing, but also illustrate technical details of your project.
 
 If possible, try to come up with creative visualizations of your project. These could include:
 
@@ -152,6 +152,8 @@ If possible, try to come up with creative visualizations of your project. These 
 * Live demonstrations for end-to-end systems
 
 We recommend searching for conference presentation sessions (AAAI, Neurips, ECCV, ICML, ICLR etc) and following those formats.
+
+You can find a sample video from a previous iteration of the class [here](https://www.youtube.com/watch?v=HmDT3NE3dck)
 
 **<span style='background-color: rgba(246,208,0,0.99);'>The late day policy for the final report and video report is slightly different.</span>**
 - <span style='background-color: rgba(246,208,0,0.99);'>You may use up to **two** late days on either assignment. Note that if you submit both two days late, that would be using four late days.</span>
@@ -173,9 +175,9 @@ The final report should contain a comprehensive account of your project. We expe
 
  After the class, we will post all the final writeups online so that you can read about each other’s work. If you do not want your write-up to be posted online, then please create a private Piazza post.
 
- | **Format** | Final project writeups can be **at most 5 pages** long (including appendices and figures). We will allow for extra pages containing only references. If you did this work in collaboration with someone else, or if someone else (such as another professor) had advised you on this work, your write-up must fully acknowledge their contributions. For shared projects, we also require that you submit the final report from the class you're sharing the project with. You are strongly encouraged to use this [format](/files/formatting-instructions-cs230.pdf) (here's a link to the [overleaf files](https://www.overleaf.com/read/jcqmtbqhkrxg)). If you are not using this format, make sure to include all sections given in the format. If you prefer to use Microsoft Word, you may refer to the [CVPR template](http://cvpr2019.thecvf.com/files/cvpr2019AuthorKit.zip) or the [IEEE template](https://www.ieee.org/conferences/publishing/templates.html).
+ | **Format** | Final project writeups can be **at most 5 pages** long. We will allow up to 5 extra pages for appendices and references. However, TAs may not look at the appendices, so please include all important information in the main report.  If you did this work in collaboration with someone else, or if someone else (such as another professor) had advised you on this work, your write-up must fully acknowledge their contributions. For shared projects, we also require that you submit the final report from the class you're sharing the project with. You are strongly encouraged to use this [format](/files/formatting-instructions-cs230.pdf) (here's a link to the [overleaf files](https://www.overleaf.com/read/jcqmtbqhkrxg)). If you are not using this format, make sure to include all sections given in the format. If you prefer to use Microsoft Word, you may refer to the [CVPR template](http://cvpr2019.thecvf.com/files/cvpr2019AuthorKit.zip) or the [IEEE template](https://www.ieee.org/conferences/publishing/templates.html).
  | **Contributions** | Please include a section that describes what each team member worked on and contributed to the project.
- | **Code** | Please include a link to a Github repository with the code for your final project. You do not have to include the data or additional libraries.
+ | **Code** | You must submit your code on Gradescope. We will open a submission for submitting code. Please also include a link to a Github repository with the code for your final project if you have one. You do not have to include the data or additional libraries. Code must be organized/readable for full credit.
  | **Grading** | The final report will be judged based off of the clarity of the report, the relevance of the project to topics taught in CS230, the novelty of the problem, and the technical quality and significance of the work.
  | **Submission** | Submit on Gradescope.
 
