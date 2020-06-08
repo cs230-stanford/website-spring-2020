@@ -404,12 +404,6 @@ micro_nav: true
 </li>
 
 <li>
-<strong>Deblurring near infrared fluro images with gan</strong> by Haotian Du, Zhuoran Ma:
-<a href='http://cs230.stanford.edu/projects_winter_2020/reports/32633702.pdf'>report</a>
-<a href='http://cs230.stanford.edu/projects_winter_2020/posters/32633702.pdf'>poster</a>
-</li>
-
-<li>
 <strong>Credit Card Fraud Detection using Deep Learning based on Generative Adversarial and Tensor Flow</strong> by Rajesh Sabari :
 <a href='http://cs230.stanford.edu/projects_winter_2020/reports/32635168.pdf'>report</a>
 <a href='http://cs230.stanford.edu/projects_winter_2020/posters/32635168.pdf'>poster</a>
