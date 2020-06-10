@@ -376,7 +376,7 @@ micro_nav: false
             <td>Lecture&nbsp;10</td>
             <td> 06/09 </td>
             <td>
-                <strong>Topics:</strong> <a href="#">(slides)</a>
+                <strong>Topics:</strong> <a href="/spring2020/lecture10.pdf">(slides)</a>
                 <ul>
                     <li>Class wrap-up</li>
                     <li>What's next?</li>
